@@ -1,4 +1,4 @@
-name: 'homework_2'
+name: 'ip_filter'
 
 on: [ push, workflow_dispatch ]
 
